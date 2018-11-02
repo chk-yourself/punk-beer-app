@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/punk-beer-app/static/js/runtime~main.58f06d1f.js"
   },
   {
-    "revision": "e0b814496fc9216b265f",
-    "url": "/punk-beer-app/static/js/main.e0b81449.chunk.js"
+    "revision": "f80c7f9aaf2c7423250e",
+    "url": "/punk-beer-app/static/js/main.f80c7f9a.chunk.js"
   },
   {
-    "revision": "88eb0947f3fe6cb09113",
-    "url": "/punk-beer-app/static/js/1.88eb0947.chunk.js"
+    "revision": "174441f02edeafa4bdec",
+    "url": "/punk-beer-app/static/js/1.174441f0.chunk.js"
   },
   {
-    "revision": "e0b814496fc9216b265f",
-    "url": "/punk-beer-app/static/css/main.d6f063b2.chunk.css"
+    "revision": "f80c7f9aaf2c7423250e",
+    "url": "/punk-beer-app/static/css/main.d6180605.chunk.css"
   },
   {
-    "revision": "1e2ba0464c31083d9c9bafedf9ebd986",
+    "revision": "108b8a48ae23e367b96bfdd15e327916",
     "url": "/punk-beer-app/index.html"
   }
 ];
