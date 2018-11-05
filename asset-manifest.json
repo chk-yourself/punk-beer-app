@@ -1,15 +1,15 @@
 {
-  "main.css": "/punk-beer-app/static/css/main.e7be5119.chunk.css",
-  "main.js": "/punk-beer-app/static/js/main.4fcc9f04.chunk.js",
-  "main.js.map": "/punk-beer-app/static/js/main.4fcc9f04.chunk.js.map",
+  "main.css": "/punk-beer-app/static/css/main.ed020c33.chunk.css",
+  "main.js": "/punk-beer-app/static/js/main.7025b43a.chunk.js",
+  "main.js.map": "/punk-beer-app/static/js/main.7025b43a.chunk.js.map",
   "static/js/1.a14a2a31.chunk.js": "/punk-beer-app/static/js/1.a14a2a31.chunk.js",
   "static/js/1.a14a2a31.chunk.js.map": "/punk-beer-app/static/js/1.a14a2a31.chunk.js.map",
   "runtime~main.js": "/punk-beer-app/static/js/runtime~main.58f06d1f.js",
   "runtime~main.js.map": "/punk-beer-app/static/js/runtime~main.58f06d1f.js.map",
-  "static/css/main.e7be5119.chunk.css.map": "/punk-beer-app/static/css/main.e7be5119.chunk.css.map",
+  "static/css/main.ed020c33.chunk.css.map": "/punk-beer-app/static/css/main.ed020c33.chunk.css.map",
   "static/media/feather-sprite.svg": "/punk-beer-app/static/media/feather-sprite.0ed672ce.svg",
   "static/media/brewdog-logo.png": "/punk-beer-app/static/media/brewdog-logo.fb243bee.png",
   "index.html": "/punk-beer-app/index.html",
-  "precache-manifest.b2a4d5d1bfa68906df0d6c343cd29361.js": "/punk-beer-app/precache-manifest.b2a4d5d1bfa68906df0d6c343cd29361.js",
+  "precache-manifest.49fcf7912ea37a3af15f9e156a24e90c.js": "/punk-beer-app/precache-manifest.49fcf7912ea37a3af15f9e156a24e90c.js",
   "service-worker.js": "/punk-beer-app/service-worker.js"
 }
