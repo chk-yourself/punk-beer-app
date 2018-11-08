@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/punk-beer-app/precache-manifest.40caff610ed6df582eaad12228811ed5.js"
+  "/punk-beer-app/precache-manifest.90dc7ee682612faa83ccfa2639879a08.js"
 );
 
 workbox.clientsClaim();
